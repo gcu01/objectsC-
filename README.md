@@ -1,1 +1,2 @@
-# objectsC-
+# objectsCpp
+exercises Stroustrup - Principles & practice
